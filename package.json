@@ -8,7 +8,7 @@
     "build": "node ./node_modules/typescript/bin/tsc",
     "bundle": "node ./node_modules/webpack/bin/webpack",
     "dev": "node ./node_modules/lite-server/bin/lite-server",
-    "serve": "npm run rmf && npm run build & npm run bundle & npm run dev"
+    "start": "npm run rmf && npm run build & npm run bundle & npm run dev"
   },
   "repository": {
     "type": "git",

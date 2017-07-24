@@ -15,5 +15,5 @@ npm install
 To run the sample, use the below command
 
 ```
-npm run serve
+npm start
 ```
